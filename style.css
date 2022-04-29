@@ -1,0 +1,21 @@
+h1{
+    font-family:monospace; 
+    color:azure; 
+    text-align:center; 
+    text-decoration: solid;
+}
+
+p{
+    font-family:helvetica; 
+    color:azure; 
+    text-align:center; 
+    text-decoration: solid;
+}
+
+[href]{
+    font-family:helvetica; 
+    color:azure; 
+    text-align:match-parent; 
+    text-decoration: solid;
+    text-decoration: underline;
+}
